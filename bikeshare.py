@@ -1,5 +1,6 @@
 site sources
 due date 6/30/2020
+make interactive add statistics
 
 import time
 import pandas as pd
