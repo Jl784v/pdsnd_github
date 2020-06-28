@@ -11,4 +11,4 @@ Describe what your project is about and what it does
 Include the files used-note location of files
 
 5.### Credit Attribution
-It's important to give proper credit. 
+It's important to give proper credit. Site Sources.
