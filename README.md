@@ -12,4 +12,4 @@ README.md
 making updates
 
 5.### Credit Attribution
-It's important to give proper credit. Site Sources.
+used the following for cmd line help: https://git-scm.com/docs/git-help
