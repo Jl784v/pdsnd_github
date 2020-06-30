@@ -4,7 +4,7 @@ import numpy as np
 
 
 CITY_DATA = { 'Chicago': 'chicago.csv',
-              'new york city': 'new_york_city.csv',
+              'NYC': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
 def get_filters():
