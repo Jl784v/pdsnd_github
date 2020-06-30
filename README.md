@@ -5,7 +5,7 @@
 Git Final Project - GITBASH Take 2
 
 3.### Description
-This project utlizes git commands to properly source files via Git Bash.
+This project utlizes git commands to properly source files via Git Bash. This project will be the final project.
 
 4.### Included Files
 README.md
