@@ -1,14 +1,14 @@
-### Date created
-Include the date you created this project and README file.
+1.### Date created
+6/29/2020
 
-### Project Title
-Replace the Project Title
+2.### Project Title
+Git Final Project
 
-### Description
-Describe what your project is about and what it does
+3.### Description
+This project utlizes git commands to properly source files via Git Bash.
 
-### Files used
-Include the files used
+4.### Included Files
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+
+5.### Credit Attribution
+It's important to give proper credit. Site Sources.
