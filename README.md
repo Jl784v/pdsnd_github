@@ -8,7 +8,8 @@ Git Final Project - GITBASH Take 2
 This project utlizes git commands to properly source files via Git Bash.
 
 4.### Included Files
-
+README.md
+making updates
 
 5.### Credit Attribution
 It's important to give proper credit. Site Sources.
